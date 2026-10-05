@@ -1,290 +1,482 @@
 [
   {
-    "slug": "sick-child",
-    "path": "/private/tmp/munch-art-assets/sick-child.jpg",
+    "id": "commons-26a619e746",
+    "source": "https://commons.wikimedia.org/wiki/File:Horse_and_Cart_on_a_Country_Road.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-d63909978a",
+    "source": "https://commons.wikimedia.org/wiki/File:River_landscape).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-1aa39c91cc",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Christian_Munch_on_the_Couch_-_MM.M.01048_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-3fcaf32c22",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Akerselva_-_Woll_22_-_MEp0022p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-691d28de39",
+    "source": "https://commons.wikimedia.org/wiki/File:Bay_with_Boat_and_House_(1881).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-6c04ee598f",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Autumn_in_Vestre_Aker_-_Woll_72.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-7b38dfe349",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Akerselva_by_Nedre_Foss_-_Woll_66_-_MEp0066p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-9bff769d86",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Akerselva_by_Slåmotgangen_-_MEp0064p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-b714414b57",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Scene_from_Akerhus_-_Fra_Akershus_-_JWC.225_-_Oslo_Museum_(cropped).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-ca8d3f4dfc",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_Overlege_Dedichen,_Ca_1882,_RES.B.00382c-recto.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-f1e3a2c1f4",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Andreas_Reading_-_Woll_78_-_MEp0078p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-701c0ab868",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Andreas_Reading_-_Woll_96_-_MEp0096p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖提供者及館藏來源詳見連結",
+    "rights": "來源頁標示為公有領域的原作複製圖（PD-Art）。"
+  },
+  {
+    "id": "commons-7835fa6c8a",
+    "source": "https://commons.wikimedia.org/wiki/File:'Andreas_by_the_Window'_by_Edvard_Munch,_Bergen_Kunstmuseum.JPG",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-a48a4f7c23",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Autumn_in_Asker_-_Woll_94_-_MEp0094p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-c296c49159",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_At_Supper_-_MM.M.00621_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-d348635398",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_To_på_vei_mot_skogen_(Couple_on_the_Path_to_the_Forest),_lot.213_(cropped).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-fc360f2f05",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_Portrett_av_gammel_mann,_1884,_RES.B.00310.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-5d19dfa532",
+    "source": "https://commons.wikimedia.org/wiki/File:Ball_(Munch).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-aebaed1cc3",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Christian_Munch_with_Pipe_-_MM.M.01056_-_Munch_Museum_(cropped).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "sick-child",
     "source": "https://commons.wikimedia.org/wiki/File:Munch_Det_Syke_Barn_1885-86.jpg",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Munch_Det_Syke_Barn_1885-86.jpg",
-    "titleZh": "病中的孩子",
-    "titleEn": "The Sick Child",
-    "date": "1885–1886",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "120 × 118.5 cm (47.2 × 46.6 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      3966,
-      4000
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "inger-beach",
-    "path": "/private/tmp/munch-art-assets/inger-beach.jpg",
+    "id": "commons-267e51ec6f",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_Self-portrait,_RES.A.00220.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-285813191d",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Andreas_Munch_Studying_Anatomy_-_MM.M.00202_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-c03f668684",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Afternoon_Nap_-_MM.M.01055_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-74b693c6e5",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_munch,_prato_fiorito_a_veierland,_1887.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-89018b89c6",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Forest_Landscape_with_Small_Lake_-_Woll_147.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-8d754982b0",
+    "source": "https://commons.wikimedia.org/wiki/File:'Halvard_Stub_Holmboe'_by_Edvard_Munch,_Bergen_Kunstmuseum.JPG",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-07f89a98b4",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Andreas_Bjølstad.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-549d9af477",
+    "source": "https://commons.wikimedia.org/wiki/File:Hos_landhandleren_i_Vrengen_-_Edvard_Munch.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-8ea94b79f6",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Aasta_Carlsen_-_MM.M.00640_-_Munch_Museum_(cropped).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-ef328cbcd4",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Beach.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-2604a436b2",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Music_on_the_Karl_Johan_Street_(1889).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "inger-beach",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Summer_night,_Inger_on_the_beach_(1889).jpg",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Edvard_Munch_-_Summer_night%2C_Inger_on_the_beach_%281889%29.jpg",
-    "titleZh": "夏夜：海灘上的英格",
-    "titleEn": "Summer Night. Inger on the Beach",
-    "date": "1889",
-    "medium": "oil on canvas",
-    "institution": "KODE Art museums and composer homes",
-    "dimensions": "height: 123.6 cm (48.6 in) ; width: 158.9 cm (62.5 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      1800,
-      1392
-    ],
-    "credit": "Edvard Munch / KODE Art museums and composer homes / Wikimedia Commons"
+    "credit": "Edvard Munch / KODE Art museums and composer homes / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "night-saint-cloud",
-    "path": "/private/tmp/munch-art-assets/night-saint-cloud.jpg",
+    "id": "garden-path",
+    "source": "https://commons.wikimedia.org/wiki/File:Garden_Path_(Munch).jpg",
+    "credit": "原作：Edvard Munch；複製圖來源：PubHist，Commons 上傳者 Villarreal9",
+    "rights": "此檔案來源頁標示 CC BY-SA 4.0：https://creativecommons.org/licenses/by-sa/4.0/ 。本頁使用未修改圖像；排版等比例縮放。"
+  },
+  {
+    "id": "commons-420ebd47d7",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_In_the_Caf%C3%A9_-_MM.M.00251_-_Munch_Museum_(cropped).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "night-saint-cloud",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Night_in_Saint-Cloud_(1890),_NG.M.01111.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Edvard_Munch_-_Night_in_Saint-Cloud_%281890%29%2C_NG.M.01111.jpg/960px-Edvard_Munch_-_Night_in_Saint-Cloud_%281890%29%2C_NG.M.01111.jpg",
-    "titleZh": "聖克盧之夜",
-    "titleEn": "Night in Saint-Cloud",
-    "date": "1890",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 64.5 cm (25.3 in); width: 54 cm (21.2 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1156
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "spring-karl-johan",
-    "path": "/private/tmp/munch-art-assets/spring-karl-johan.jpg",
+    "id": "spring-karl-johan",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Spring_Day_on_Karl_Johan_(1890).jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Edvard_Munch_-_Spring_Day_on_Karl_Johan_%281890%29.jpg/960px-Edvard_Munch_-_Spring_Day_on_Karl_Johan_%281890%29.jpg",
-    "titleZh": "卡爾約翰街的春日",
-    "titleEn": "Spring Day on Karl Johan",
-    "date": "1890",
-    "medium": "oil",
-    "institution": "KODE Art museums and composer homes",
-    "dimensions": "height: 80 cm (31.4 in) ; width: 100 cm (39.3 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      772
-    ],
-    "credit": "Edvard Munch / KODE Art museums and composer homes / Wikimedia Commons"
+    "credit": "Edvard Munch / KODE Art museums and composer homes / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "melancholy",
-    "path": "/private/tmp/munch-art-assets/melancholy.jpg",
+    "id": "commons-4a44d9f58b",
+    "source": "https://commons.wikimedia.org/wiki/File:Forest_Landscape_(Munch).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-52b9ab92ec",
+    "source": "https://commons.wikimedia.org/wiki/File:%27Woman_in_Blue_against_Blue_Water%27_by_Edvard_Munch,_1891.JPG",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-7fb983214d",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_In_Open_Air.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "melancholy",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Evening._Melancholy_(1891).jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Edvard_Munch_-_Evening._Melancholy_%281891%29.jpg/960px-Edvard_Munch_-_Evening._Melancholy_%281891%29.jpg",
-    "titleZh": "傍晚：憂鬱",
-    "titleEn": "Evening. Melancholy",
-    "date": "1891",
-    "medium": "oil , wax crayon and pencil on canvas",
-    "institution": "Munch Museum",
-    "dimensions": "height: 73 cm (28.7 in) ; width: 101 cm (39.7 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      689
-    ],
-    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons"
+    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "scream",
-    "path": "/private/tmp/munch-art-assets/scream.jpg",
+    "id": "commons-522140cefc",
+    "source": "https://commons.wikimedia.org/wiki/File:Ludvig_Meyer_by_Munch.png",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-58b1562866",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Autumn_Rain_-_Woll_296_-_MEp0296p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-8a5a630733",
+    "source": "https://commons.wikimedia.org/wiki/File:Fortvivlan.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-30623dbffd",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Death_in_the_Sickroom.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-59745500e4",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Sunrise_in_the_Harbor.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-8a19a9a419",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Seated_Nude_and_Grotesque_Mask.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-e94b8f3cd1",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Hands_(1893).jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "scream",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/960px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
-    "titleZh": "吶喊",
-    "titleEn": "The Scream",
-    "date": "1893",
-    "medium": "tempera and wax crayon on board",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 91 cm (35.8 in) ; width: 73.5 cm (28.9 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1191
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "vampire-1893",
-    "path": "/private/tmp/munch-art-assets/vampire-1893.jpg",
-    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1893),_Munchmuseet.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Edvard_Munch_-_Vampire_%281893%29%2C_Munchmuseet.jpg/960px-Edvard_Munch_-_Vampire_%281893%29%2C_Munchmuseet.jpg",
-    "titleZh": "吸血鬼",
-    "titleEn": "Vampire",
-    "date": "1893",
-    "medium": "oil on canvas",
-    "institution": "Munch Museum",
-    "dimensions": "height: 77.5 cm (30.5 in) ; width: 98.5 cm (38.7 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      754
-    ],
-    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons"
+    "id": "commons-23f89cf87d",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Bathing_Women_-_Woll_356_-_MEp0356p1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖提供者及館藏來源詳見連結",
+    "rights": "來源頁標示為公有領域的原作複製圖（PD-Art）。"
   },
   {
-    "slug": "anxiety",
-    "path": "/private/tmp/munch-art-assets/anxiety.jpg",
+    "id": "commons-5855f48195",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch-The_Day_After.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "anxiety",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg/960px-Edvard_Munch_-_Anxiety_-_Google_Art_Project.jpg",
-    "titleZh": "焦慮",
-    "titleEn": "Anxiety",
-    "date": "1894",
-    "medium": "oil on canvas",
-    "institution": "Munch Museum",
-    "dimensions": "height: 94 cm (37 in); width: 74 cm (29.1 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1238
-    ],
-    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons"
+    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "madonna",
-    "path": "/private/tmp/munch-art-assets/madonna.jpg",
+    "id": "madonna",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Madonna_(1894-1895).jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Edvard_Munch_-_Madonna_%281894-1895%29.jpg/960px-Edvard_Munch_-_Madonna_%281894-1895%29.jpg",
-    "titleZh": "聖母",
-    "titleEn": "Madonna",
-    "date": "1894–1895",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 90.5 cm (35.6 in) ; width: 70.5 cm (27.7 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1235
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "ashes",
-    "path": "/private/tmp/munch-art-assets/ashes.jpg",
+    "id": "commons-42b0a590e1",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Oscar_and_Ingeborg_Heiberg_-_MM.M.01110_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-6db63c1d5c",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Smell_of_Death.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-906216464e",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Moonlight_-_MG_9746_-_National_Gallery_Oslo.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "ashes",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Ashes_(1895).jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Edvard_Munch_-_Ashes_%281895%29.jpg/960px-Edvard_Munch_-_Ashes_%281895%29.jpg",
-    "titleZh": "灰燼",
-    "titleEn": "Ashes",
-    "date": "1895",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 120.5 cm (47.4 in) ; width: 141 cm (55.5 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      819
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "puberty",
-    "path": "/private/tmp/munch-art-assets/puberty.jpg",
+    "id": "puberty",
     "source": "https://commons.wikimedia.org/wiki/File:Puberty_(1894-95)_by_Edvard_Munch.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puberty_%281894-95%29_by_Edvard_Munch.jpg/960px-Puberty_%281894-95%29_by_Edvard_Munch.jpg",
-    "titleZh": "青春期",
-    "titleEn": "Puberty",
-    "date": "1895",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 151.5 cm (59.6 in) ; width: 110 cm (43.3 in) ; thickness: 2.6 cm (1 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1331
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "self-cigarette",
-    "path": "/private/tmp/munch-art-assets/self-cigarette.jpg",
+    "id": "self-cigarette",
     "source": "https://commons.wikimedia.org/wiki/File:Munch_SelfBurningCigarette.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Munch_SelfBurningCigarette.jpg/960px-Munch_SelfBurningCigarette.jpg",
-    "titleZh": "手持香菸的自畫像",
-    "titleEn": "Self-Portrait with Cigarette",
-    "date": "1895",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 110.5 cm (43.5 in) ; width: 85.5 cm (33.6 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1256
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "vampire",
-    "path": "/private/tmp/munch-art-assets/vampire.jpg",
+    "id": "vampire",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg/960px-Edvard_Munch_-_Vampire_%281895%29_-_Google_Art_Project.jpg",
-    "titleZh": "吸血鬼",
-    "titleEn": "Vampire",
-    "date": "1895",
-    "medium": "oil on canvas",
-    "institution": "Munch Museum",
-    "dimensions": "height: 91 cm (35.8 in); width: 109 cm (42.9 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      786
-    ],
-    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons"
+    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "separation",
-    "path": "/private/tmp/munch-art-assets/separation.jpg",
+    "id": "commons-77330d4d75",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_Mermaid,_1896,_2003-1-1.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖提供者及館藏來源詳見連結",
+    "rights": "來源頁標示為公有領域的原作複製圖（PD-Art）。"
+  },
+  {
+    "id": "commons-33dd259174",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Study_of_a_Nude_-_MM.M.00631_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-7559a84422",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Young_Woman_Washing_herself_-_NG.M.00843_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-cbbfc60bda",
+    "source": "https://commons.wikimedia.org/wiki/File:EdvardMunchHansJæger1896.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "separation",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Separation_-_Google_Art_Project.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Edvard_Munch_-_Separation_-_Google_Art_Project.jpg/960px-Edvard_Munch_-_Separation_-_Google_Art_Project.jpg",
-    "titleZh": "分離",
-    "titleEn": "Separation",
-    "date": "1896",
-    "medium": "oil on canvas",
-    "institution": "Munch Museum",
-    "dimensions": "height: 96 cm (37.7 in) ; width: 127 cm (50 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      723
-    ],
-    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons"
+    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "kiss",
-    "path": "/private/tmp/munch-art-assets/kiss.jpg",
+    "id": "commons-3ec7a7b8bd",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch,_madre_e_figlia,_1897_ca.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-a4bba141db",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Brothel_Scene.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-e0131408c5",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Women_in_Hospital_-_MM.M.00028_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "kiss",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg/960px-Edvard_Munch_-_The_Kiss_-_Google_Art_Project.jpg",
-    "titleZh": "吻",
-    "titleEn": "The Kiss",
-    "date": "1897",
-    "medium": "oil and oil painting on canvas",
-    "institution": "Munch Museum",
-    "dimensions": "height: 99 cm (38.9 in) ; width: 81 cm (31.8 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      1176
-    ],
-    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons"
+    "credit": "Edvard Munch / Munch Museum / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
   },
   {
-    "slug": "dance-life",
-    "path": "/private/tmp/munch-art-assets/dance-life.jpg",
+    "id": "commons-548aa09249",
+    "source": "https://commons.wikimedia.org/wiki/File:Nude_in_Profile_towards_the_Right_by_Munch,_Bergen_Kunstmuseum.JPG",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-b6a615f410",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Sitting_Nude_by_the_Beach_-_Woll_425.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-d66ce8f88d",
+    "source": "https://commons.wikimedia.org/wiki/File:Edward_Munch,_portret_Stanisława_Przybyszewskiego,_1898_litografia.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-fb2b884c91",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Study_of_a_Model.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-fc8c1c2a58",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_Tulla_Larsen,_1898%E2%80%9399,_RES.A.00070.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-4e3082e8bc",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Death_and_the_Child_-_MM.M.00420_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-621d14ab86",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Red_and_White_-_Google_Art_Project.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-fa0ab33076",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Dark_Spruce_Forest_-_MM.M.00626_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-fcbda569de",
+    "source": "https://commons.wikimedia.org/wiki/File:Girl's_Head_against_the_Shore_by_Edvard_Munch,_1899,_color_woodcut.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "dance-life",
     "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_dance_of_life_(1899-1900).jpg",
-    "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg/960px-Edvard_Munch_-_The_dance_of_life_%281899-1900%29.jpg",
-    "titleZh": "生命之舞",
-    "titleEn": "The Dance of Life",
-    "date": "1899–1900",
-    "medium": "oil on canvas",
-    "institution": "National Museum of Art, Architecture and Design",
-    "dimensions": "height: 125 cm (49.2 in) ; width: 191 cm (75.1 in)",
-    "licensing": "Public domain; faithful reproduction of a two-dimensional public-domain work (Commons PD-Art).",
-    "imageDimensions": [
-      960,
-      630
-    ],
-    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons"
+    "credit": "Edvard Munch / National Museum of Art, Architecture and Design / Wikimedia Commons",
+    "rights": "Wikimedia Commons：PD-Art／Public domain"
+  },
+  {
+    "id": "commons-7686513bfe",
+    "source": "https://commons.wikimedia.org/wiki/File:Munch_-_VIEW_FROM_NORDSTRAND,_lot.41.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
+  },
+  {
+    "id": "commons-ea2767032b",
+    "source": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Golgotha_-_MM.M.00036_-_Munch_Museum.jpg",
+    "credit": "Edvard Munch／Wikimedia Commons；複製圖署名詳見來源頁",
+    "rights": "Public domain / Commons PD-Art faithful two-dimensional reproduction"
   }
 ]
